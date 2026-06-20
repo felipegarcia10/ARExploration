@@ -6,7 +6,7 @@ PG29Felipe
 
 GitHub repo: https://github.com/felipegarcia10/ARExploration.git
 
-Link to the video: https://vfscom-my.sharepoint.com/:v:/g/personal/pg29felipe\_vfs\_com/IQBQHjhDzkfSQae36e1nUbuiAfhJCCBV\_bamEjWoJLbWiUg?e=jkLDoO
+Link to the video: https://vfscom-my.sharepoint.com/:f:/g/personal/pg29felipe\_vfs\_com/IgB56nhu\_FzhSYMaLLSka13JAab-\_u\_VRMXXJnnz1DYM\_iw?e=Ojc97T
 
 Unity Version: 6000.3.12f1
 
@@ -32,5 +32,5 @@ The system detects the alignment of the plain you are pointing to and based on t
 
 The UI text will also change based on the plane alignment.
 
-you can delete any spawned object by taping it. 
+you can delete any spawned object by taping it.
 
