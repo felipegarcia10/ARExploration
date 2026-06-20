@@ -6,9 +6,7 @@ PG29Felipe
 
 GitHub repo: https://github.com/felipegarcia10/ARExploration.git
 
-Link to the video: https://vfscom-my.sharepoint.com/:f:/g/personal/pg29felipe\_vfs\_com/IgB56nhu\_FzhSYMaLLSka13JAab-\_u\_VRMXXJnnz1DYM\_iw?e=Ojc97T
-
-Unity Version: 6000.3.12f1
+Link to the video: https://drive.google.com/file/d/1k1Agzusqi-IGa6KQR17NPbFtdo6GA1wX/view?usp=drive\_linkUnity Version: 6000.3.12f1
 
 
 
